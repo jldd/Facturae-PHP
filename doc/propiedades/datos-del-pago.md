@@ -34,7 +34,7 @@ $fac->setDueDate("2017-12-31");
 ```
 
 > #### NOTA
-> Por defecto, si se establece una forma de pago y no se indica la fecha de vencimiento se interpreta la fecha de la factura como tal.
+> Por defecto, si se establece una forma de pago y no se indica la fecha de vencimiento se asigna la fecha de la factura como tal.
 
 ---
 
